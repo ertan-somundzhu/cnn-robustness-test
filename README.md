@@ -10,3 +10,5 @@ The changes introduced:
 3) Switching colour channels.
 
 Results: The model did not fail, though some changes did decrease it's certainty.
+
+Note: This is/was homework on my neural networks minor.
